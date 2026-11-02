@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:090d16,100:161b22&height=160&section=header&text=GitHub%20Achievements%20Reference&fontSize=38&fontColor=f0f6fc&fontAlignY=42&desc=Technical%20Documentation%20and%20Completion%20Guide%20for%20GitHub%20Profile%20Badges&descSize=15&descAlignY=65&descColor=8b949e" width="100%"/>
 
 <br/>
-
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=21262d&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=21262d&labelColor=0d1117)
+<!--
+![Stars](https://img.shields.io/github/stars/SAKSHAM237/YOUR_REPO_NAME?style=flat-square&color=21262d&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/SAKSHAM/YOUR_REPO_NAME?style=flat-square&color=21262d&labelColor=0d1117)-->
 ![Updated](https://img.shields.io/badge/Updated-2026-21262d?style=flat-square&labelColor=0d1117)
 ![Badges](https://img.shields.io/badge/Total%20Badges-11-21262d?style=flat-square&labelColor=0d1117)
 ![License](https://img.shields.io/badge/License-MIT-21262d?style=flat-square&labelColor=0d1117)
