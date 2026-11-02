@@ -266,4 +266,4 @@ Corrections and updates to thresholds or mechanics are welcome.
 
 ## License
 
-Released under the [MIT License](LICENSE). Maintained by [@YOUR_USERNAME](https://github.com/YOUR_USERNAME).
+Released under the [MIT License](LICENSE). Maintained by [SAKSHAM SHARMA](https://github.com/YOUR_USERNAME).
