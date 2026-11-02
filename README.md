@@ -4,8 +4,8 @@
 
 <br/>
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/github-profile-badges?style=flat-square&color=21262d&labelColor=0d1117)
-![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/github-profile-badges?style=flat-square&color=21262d&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=21262d&labelColor=0d1117)
+![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME?style=flat-square&color=21262d&labelColor=0d1117)
 ![Updated](https://img.shields.io/badge/Updated-2026-21262d?style=flat-square&labelColor=0d1117)
 ![Badges](https://img.shields.io/badge/Total%20Badges-11-21262d?style=flat-square&labelColor=0d1117)
 ![License](https://img.shields.io/badge/License-MIT-21262d?style=flat-square&labelColor=0d1117)
